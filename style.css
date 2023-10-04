@@ -1,0 +1,65 @@
+.container{
+    width: 100%;
+    height: auto;
+min-width:250px;
+max-width: 500px;
+max-height: 600px;
+min-height: 300px;
+background-color: aquamarine;
+background-image: linear-gradient(to right, #434343 0%, black 100%);
+align-items: center;
+justify-content: center;
+margin-left: 379px;
+margin-top: 80px;
+border-radius: 50px;
+box-shadow: 2px 1px 1px 0.5px whitesmoke ;
+padding: 1rem;
+color: silver;
+box-sizing: border-box;
+}
+body{
+     background-color: chocolate;
+}
+input{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-left: 130px;
+    border-radius: 19px;
+    margin-top: 12px;
+width:200px;
+
+    line-height: 20px;
+}
+
+button{
+width: fit-content;
+height: fit-content;
+background-color:blue;
+color:silver ;
+border-radius:10px ;
+
+}button:hover{
+    background-color:black;
+    color: lawngreen;
+cursor:pointer;
+}
+#deletebutton{
+    background-color: rgb(223, 14, 118);
+}
+li{
+
+justify-content: center;
+align-items: center;
+align-content: center;
+text-align: center;
+list-style: none;
+color: silver;
+border: 0.01px solid gold;
+box-sizing: border-box;
+
+}
+h1{
+  text-align:center; 
+
+}
